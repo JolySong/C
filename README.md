@@ -1,3 +1,3 @@
-# This is  C/C++ Code by learn
+# This my  C/C++ Code by learn
 
-###这是我平常的一些笔记
+### 这是我平常学习的一些C/C++笔记
